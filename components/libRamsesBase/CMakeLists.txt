@@ -71,6 +71,7 @@ PUBLIC
     ramses-logic-api
     raco::UserTypes
     raco::Components
+    raco::ramses-logic-lib-client-only
 PRIVATE
     raco::Utils
     raco::LogSystem
